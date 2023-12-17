@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling","hatch-requirements-txt"]
+build-backend = "hatchling.build"
+
+[project]
+name = "QR-Bar-Code-Generator"
+version = "1.0.0"
+authors = [
+  { name="Seyed Mousa Sajadi(WinCento)", email="sajadimousa@gmail.com" },
+]
+description = "To Generate QR-Code and Bar-Code"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["dependencies"]
+
+[project.urls]
+"Homepage" = "https://github.com/yasharsajadi/QR-Bar-Code-Generator"
+
+
+[tool.hatch.metadata.hooks.requirements_txt]
+files = ["requirements.txt"]

@@ -1,0 +1,6 @@
+barcode_generator==0.1rc15
+customtkinter==5.2.1
+matplotlib==3.7.1
+Pillow==10.1.0
+Pillow==10.1.0
+qrcode==7.4.2
