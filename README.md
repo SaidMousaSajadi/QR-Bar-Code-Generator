@@ -4,7 +4,7 @@ This project is licensed under a custom **Academic Non-Commercial License (ANCL)
 
 📌 Use is permitted for **academic and research purposes only**.  
 🚫 **Commercial use is strictly prohibited** without prior written permission.  
-© 2024 [Said Mousa Sajadi]
+© 2023 [Said Mousa Sajadi]
 
 
 # QR-Bar Code Generator	 
